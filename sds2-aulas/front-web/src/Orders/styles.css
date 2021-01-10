@@ -53,6 +53,7 @@
   .orders-list-container {
     display: flex;
     justify-content: center;
+    
   }
   
   .orders-list-items {
@@ -113,6 +114,7 @@
   
   .order-card-container.selected .order-card-price {
     color: #008E5B;
+    
   }
   
   .order-card-description {
