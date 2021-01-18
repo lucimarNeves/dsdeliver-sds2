@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fd71353-28a5-42be-8636-7a422d58bd27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../backend/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1nDOHMYQLhGQTGSBnOJQne5haCk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fd71353-28a5-42be-8636-7a422d58bd27" name="Default Changelist" comment="" />
+      <created>1610921106160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610921106160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2057" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610921927475">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2057" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1610921927475" />
+    <state x="2012" y="92" width="1182" height="544" key="AVDManager" timestamp="1610922271837">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2012" y="92" width="1182" height="544" key="AVDManager/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1610922271837" />
+  </component>
+</project>
