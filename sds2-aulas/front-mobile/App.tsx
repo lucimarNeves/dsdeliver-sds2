@@ -6,6 +6,7 @@ import AppLoading from 'expo-app-loading';
 import Routes from './src/Routes';
 
 
+
 export default function App() {
   
   let [fontsLoaded] = useFonts({
